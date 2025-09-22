@@ -3,15 +3,15 @@
 A FastAPI server for background removal using [rembg](https://github.com/danielgatis/rembg) and [ONNXRuntime](https://onnxruntime.ai/) with GPU (CUDA) or CPU fallback.
 
 ### Example 1
-![Input 1](inputs/input1.JPG)
+![Input 1](input1.JPG)
 ![Output 1](outputs/input1.png)
 
 ### Example 2
-![Input 2](inputs/input2.JPG)
+![Input 2](input2.JPG)
 ![Output 2](outputs/input2.png)
 
 ### Example 3
-![Input 3](inputs/input3.JPG)
+![Input 3](input3.JPG)
 ![Output 3](outputs/input3.png)
 
 ---
