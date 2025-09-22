@@ -15,5 +15,4 @@ __pycache__/
 # Rembg cache
 .ort_trt_cache/
 inputs/
-outputs/
 output_images*/
